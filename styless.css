@@ -1,0 +1,29 @@
+body {
+    background-image: url("iStock_000034454270Large.jpg");
+    background-color: #cccccc;
+}
+nav {
+    float: left;
+    width: 30%;
+    height: 630px;
+    background: #ccc;
+    padding: 20px;
+}
+nav b {font-size: 25;}
+ul {color: red;
+    font-size: 25;
+
+    }
+
+iframe {align-self: center;}
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+#headercont {
+  color: black;
+  padding: 40px;
+  text-align: center;
+  font-size: 36px;}
