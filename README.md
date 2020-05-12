@@ -1,6 +1,4 @@
-# Project 0
 
-Web Programming with Python and JavaScript
 
 ## Easy-Recharge
 ![](images/1.jpg)
@@ -24,7 +22,7 @@ there are 2 versions from the application
 -Support different types of cards 
 -Recharge codes automatically according to the service provider company
 -Provide optimized , fast mobile android application
--Share button to share detected serial number
+-Share button to share detected serial number (kotlinv ersion)
 
 
 # System Architecture
@@ -33,13 +31,20 @@ there are 2 versions from the application
 
 # steps 
 1. open the application
-![](images/1.jpg)
+- ![](images/1.jpg)
+
+
+
 2. capture an image or upload from gallery
-![](images/etisalat.jpg)
+- ![](images/etisalat.jpg)
+
+
 3. detect number from card
-![](images/3.jpg)
+- ![](images/3.jpg)
+
+
 4. press recharge button
-![](images/et-code.jpg)
+- ![](images/et-code.jpg)
 
 
 
